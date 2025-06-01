@@ -1,1 +1,1 @@
-# wine-quality-analysis
+This project analyzes the quality of Red Wine using regression techniques in R. I explored how different features like acidity, alcohol, and sugar affect wine ratings, and compared multiple models (OLS, LAD, Huber) to handle outliers and improve prediction. The PDF contains the full write-up.
